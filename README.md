@@ -33,7 +33,7 @@
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
 <p align="center">
-  <img src="Sumon%20O%20Aurthohin/Album%20Cover/Sumon%20O%20Aurthohin%20%5BFront%5D.jpg" width="300" alt="Sumon O Aurthohin Album Cover" />
+  <img src="Sumon%20O%20Aurthohin/Album%20Cover/Sumon%20O%20Aurthohin%20%5BHyenar%20Ottohashi%5D.jpg" width="300" alt="Sumon O Aurthohin Album Cover" />
 </p>
 
 ### 📖 About the Album
