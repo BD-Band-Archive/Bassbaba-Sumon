@@ -284,7 +284,7 @@ Released in October 2016 by Mushroom Entertainment, *Soul Food, Pt. 1* is Bassba
 
 | | |
 | :---: | :---: |
-| <img src="Singles/Album%20Cover/Bassbaba%20Sumon%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Singles/Album%20Cover/folder.jpg" width="300" alt="2. folder" /><br><sub><b>2. folder</b></sub> |
+| <img src="Singles/Album%20Cover/Bassbaba%20Sumon%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
 ---
 
