@@ -298,7 +298,7 @@ Released in October 2016 by Mushroom Entertainment, *Soul Food, Pt. 1* is Bassba
 ---
 
 <a id="9-jewel-with-the-stars-2006"></a>
-## 9. [Jewel With The Stars (2006)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Jewel%20With%20The%20Stars%20%282006%29)
+## 9. [Jewel With The Stars (2006)](https://github.com/GhostDog45/Mixed-Albums#jewel-with-the-stars-2006)
 
 ### 🎵 Tracklist (One-Tap Download)
 
