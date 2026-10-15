@@ -22,6 +22,9 @@
 6. [Soul Food, Pt. 1 (2016)](#6-soul-food-pt-1-2016)
 7. [Singles & Standalone Releases](#7-singles--standalone-releases)
 
+### 💿 Mixed Albums
+8. [Agontuk 3 (আগন্তুক ৩) (2005)](#8-agontuk-3-2005)
+
 ---
 
 <a id="1-sumon-o-aurthohin-1997"></a>
@@ -63,7 +66,7 @@ Released in 1997 by Soundtek, *Sumon O Aurthohin* ("Sumon & Meaningless") is Bas
 | :---: | :---: |
 | <img src="Sumon%20O%20Aurthohin/Album%20Cover/Sumon%20O%20Aurthohin%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Sumon%20O%20Aurthohin/Album%20Cover/Sumon%20O%20Aurthohin%20%5BInset%5D.jpg" width="300" alt="2. Tray Inlay Artwork" /><br><sub><b>2. Tray Inlay Artwork</b></sub> |
 | <img src="Sumon%20O%20Aurthohin/Album%20Cover/Sumon%20O%20Aurthohin%20%5BCD%5D.jpg" width="300" alt="3. Compact Disc (CD)" /><br><sub><b>3. Compact Disc (CD)</b></sub> | <img src="Sumon%20O%20Aurthohin/Album%20Cover/Sumon%20O%20Aurthohin%20%5BBack%5D.jpg" width="300" alt="4. Back Cover" /><br><sub><b>4. Back Cover</b></sub> |
-| <img src="Sumon%20O%20Aurthohin/Album%20Cover/Sumon%20O%20Aurthohin%20%5BHyenar%20Ottohashi%5D.jpg" width="300" alt="5. Hyenar Ottohashi Artwork" /><br><sub><b>5. Hyenar Ottohashi Artwork</b></sub> |  |
+| <img src="Sumon%20O%20Aurthohin/Album%20Cover/Sumon%20O%20Aurthohin%20%5BHyenar%20Ottohashi%5D.jpg" width="300" alt="5. Sumon O Aurthohin [Hyenar Ottohashi]" /><br><sub><b>5. Sumon O Aurthohin [Hyenar Ottohashi]</b></sub> |  |
 
 ---
 
@@ -225,9 +228,9 @@ Released in 2007 by G-Series, *Ekhon Ami* ("Now It Is Me") is one of the most ce
 
 | | |
 | :---: | :---: |
-| <img src="Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BArtwork%5D.jpg" width="300" alt="1. Cover Artwork" /><br><sub><b>1. Cover Artwork</b></sub> | <img src="Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BFront-Back%5D.jpg" width="300" alt="2. Outer Slipcase (Front & Back)" /><br><sub><b>2. Outer Slipcase (Front & Back)</b></sub> |
-| <img src="Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BLyrics%5D.jpg" width="300" alt="3. Booklet & Lyrics" /><br><sub><b>3. Booklet & Lyrics</b></sub> | <img src="Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BInlay-1%5D.jpg" width="300" alt="4. Tray Inlay (Part 1)" /><br><sub><b>4. Tray Inlay (Part 1)</b></sub> |
-| <img src="Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BInlay-2%5D.jpg" width="300" alt="5. Tray Inlay (Part 2)" /><br><sub><b>5. Tray Inlay (Part 2)</b></sub> | <img src="Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BCD%5D.jpg" width="300" alt="6. Compact Disc (CD)" /><br><sub><b>6. Compact Disc (CD)</b></sub> |
+| <img src="Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BFront-Back%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BArtwork%5D.jpg" width="300" alt="2. Gatefold Artwork" /><br><sub><b>2. Gatefold Artwork</b></sub> |
+| <img src="Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BLyrics%5D.jpg" width="300" alt="3. Booklet & Lyrics" /><br><sub><b>3. Booklet & Lyrics</b></sub> | <img src="Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BInlay-1%5D.jpg" width="300" alt="4. Inlay (Part 1)" /><br><sub><b>4. Inlay (Part 1)</b></sub> |
+| <img src="Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BInlay-2%5D.jpg" width="300" alt="5. Inlay (Part 2)" /><br><sub><b>5. Inlay (Part 2)</b></sub> | <img src="Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BCD%5D.jpg" width="300" alt="6. Compact Disc (CD)" /><br><sub><b>6. Compact Disc (CD)</b></sub> |
 
 ---
 
@@ -257,10 +260,9 @@ Released in October 2016 by Mushroom Entertainment, *Soul Food, Pt. 1* is Bassba
 
 ### 🖼️ Album Artwork
 
-<p align="center">
-  <img src="Soul%20Food%2C%20Pt.%201%20%282016%29/Album%20Cover/Soul%20Food%2C%20Pt.%201%20%5BFront%5D.jpg" width="300" alt="Soul Food, Pt. 1 Front Cover" /><br>
-  <sub><b>Front Cover (Digital Master Scan)</b></sub>
-</p>
+| | |
+| :---: | :---: |
+| <img src="Soul%20Food%2C%20Pt.%201%20%282016%29/Album%20Cover/Soul%20Food%2C%20Pt.%201%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
 ---
 
@@ -275,6 +277,22 @@ Released in October 2016 by Mushroom Entertainment, *Soul Food, Pt. 1* is Bassba
 - [**Bassbaba Sumon - Boyosh Holo Amar**](https://media.githubusercontent.com/media/GhostDog45/Bassbaba-Sumon/master/Singles/Bassbaba%20Sumon%20-%20Boyosh%20Holo%20Amar.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Bassbaba-Sumon/master/Singles/Bassbaba%20Sumon%20-%20Boyosh%20Holo%20Amar.flac?download=true)
 - [**Bassbaba Sumon - Oniyomer Golpo**](https://media.githubusercontent.com/media/GhostDog45/Bassbaba-Sumon/master/Singles/Bassbaba%20Sumon%20-%20Oniyomer%20Golpo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Bassbaba-Sumon/master/Singles/Bassbaba%20Sumon%20-%20Oniyomer%20Golpo.flac?download=true)
 - [**Bassbaba Sumon - Purano Shei Diner Kotha**](https://media.githubusercontent.com/media/GhostDog45/Bassbaba-Sumon/master/Singles/Bassbaba%20Sumon%20-%20Purano%20Shei%20Diner%20Kotha.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Bassbaba-Sumon/master/Singles/Bassbaba%20Sumon%20-%20Purano%20Shei%20Diner%20Kotha.flac?download=true)
+
+
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="Singles/Album%20Cover/Bassbaba%20Sumon%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Singles/Album%20Cover/folder.jpg" width="300" alt="2. folder" /><br><sub><b>2. folder</b></sub> |
+
+---
+
+<a id="8-agontuk-3-2005"></a>
+## 8. [Agontuk 3 (আগন্তুক ৩) (2005)](https://github.com/GhostDog45/Mixed-Albums#7-agontuk-3-2005)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Stentorian feat. Bassbaba Sumon - Bishonno Andher**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%203%20%282005%29/15%20Bishonno%20Andher.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%203%20%282005%29/15%20Bishonno%20Andher.flac?download=true)
 
 ---
 
