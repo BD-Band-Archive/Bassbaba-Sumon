@@ -24,6 +24,7 @@
 
 ### 💿 Mixed Albums
 8. [Agontuk 3 (আগন্তুক ৩) (2005)](#8-agontuk-3-2005)
+9. [Jewel With The Stars (2006)](#9-jewel-with-the-stars-2006)
 
 ---
 
@@ -293,6 +294,16 @@ Released in October 2016 by Mushroom Entertainment, *Soul Food, Pt. 1* is Bassba
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**Stentorian feat. Bassbaba Sumon - Bishonno Andher**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%203%20%282005%29/15%20Bishonno%20Andher.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%203%20%282005%29/15%20Bishonno%20Andher.flac?download=true)
+
+---
+
+<a id="9-jewel-with-the-stars-2006"></a>
+## 9. [Jewel With The Stars (2006)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Jewel%20With%20The%20Stars%20%282006%29)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Bassbaba Sumon - Anubhobe**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/05.%20Anubhobe.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/05.%20Anubhobe.flac?download=true)
+- [**Bassbaba Sumon - Notun Aami**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/09.%20Notun%20Aami.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/09.%20Notun%20Aami.flac?download=true)
 
 ---
 
