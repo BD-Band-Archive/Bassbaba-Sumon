@@ -69,6 +69,12 @@ Released in 1997 by Soundtek, *Sumon O Aurthohin* ("Sumon & Meaningless") is Bas
 | <img src="Sumon%20O%20Aurthohin/Album%20Cover/Sumon%20O%20Aurthohin%20%5BCD%5D.jpg" width="300" alt="3. Compact Disc (CD)" /><br><sub><b>3. Compact Disc (CD)</b></sub> | <img src="Sumon%20O%20Aurthohin/Album%20Cover/Sumon%20O%20Aurthohin%20%5BBack%5D.jpg" width="300" alt="4. Back Cover" /><br><sub><b>4. Back Cover</b></sub> |
 | <img src="Sumon%20O%20Aurthohin/Album%20Cover/Sumon%20O%20Aurthohin%20%5BHyenar%20Ottohashi%5D.jpg" width="300" alt="5. Sumon O Aurthohin [Hyenar Ottohashi]" /><br><sub><b>5. Sumon O Aurthohin [Hyenar Ottohashi]</b></sub> |  |
 
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** dBpoweramp AccurateRip Rig
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
+
 ---
 
 <a id="2-shopnogulo-tomar-moto-2002"></a>
@@ -110,6 +116,12 @@ Released in 2002 by G-Series under the artist credit *"Aurthohin Er Sumon"*, *Sh
 | <img src="Shopnogulo%20Tomar%20Moto/Album%20Cover/Shopnogulo%20Tomar%20Moto%20%5BInset-4%5D.jpg" width="300" alt="5. Inset (Part 4)" /><br><sub><b>5. Inset (Part 4)</b></sub> | <img src="Shopnogulo%20Tomar%20Moto/Album%20Cover/Shopnogulo%20Tomar%20Moto%20%5BCD%5D.jpg" width="300" alt="6. Compact Disc (CD)" /><br><sub><b>6. Compact Disc (CD)</b></sub> |
 | <img src="Shopnogulo%20Tomar%20Moto/Album%20Cover/Shopnogulo%20Tomar%20Moto%20%5BBack%5D.jpg" width="300" alt="7. Back Cover" /><br><sub><b>7. Back Cover</b></sub> |  |
 
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** dBpoweramp AccurateRip Rig
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
+
 ---
 
 <a id="3-megher-deshe-2005"></a>
@@ -148,6 +160,12 @@ Released in 2005, *Megher Deshe* ("In the Land of Clouds") is Bassbaba Sumon's i
 | <img src="Megher%20Deshe/Album%20Cover/Megher%20Deshe%20%5BInset-2%5D.jpg" width="300" alt="3. Inset (Part 2)" /><br><sub><b>3. Inset (Part 2)</b></sub> | <img src="Megher%20Deshe/Album%20Cover/Megher%20Deshe%20%5BInset-3%5D.jpg" width="300" alt="4. Inset (Part 3)" /><br><sub><b>4. Inset (Part 3)</b></sub> |
 | <img src="Megher%20Deshe/Album%20Cover/Megher%20Deshe%20%5BInset-4%5D.jpg" width="300" alt="5. Inset (Part 4)" /><br><sub><b>5. Inset (Part 4)</b></sub> | <img src="Megher%20Deshe/Album%20Cover/Megher%20Deshe%20%5BCD%5D.jpg" width="300" alt="6. Compact Disc (CD)" /><br><sub><b>6. Compact Disc (CD)</b></sub> |
 | <img src="Megher%20Deshe/Album%20Cover/Megher%20Deshe%20%5BBack%5D.jpg" width="300" alt="7. Back Cover" /><br><sub><b>7. Back Cover</b></sub> |  |
+
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** Manzur Fahim
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
 
 ---
 
@@ -194,6 +212,12 @@ Released in 2007 by G-Series, *Boka Manushta* ("The Foolish Man") is Bassbaba Su
 | <img src="Boka%20Manushta/Album%20Cover/Boka%20Manushta%20%5BInset-2%5D.jpg" width="300" alt="3. Inset (Part 2)" /><br><sub><b>3. Inset (Part 2)</b></sub> | <img src="Boka%20Manushta/Album%20Cover/Boka%20Manushta%20%5BInset-3%5D.jpg" width="300" alt="4. Inset (Part 3)" /><br><sub><b>4. Inset (Part 3)</b></sub> |
 | <img src="Boka%20Manushta/Album%20Cover/Boka%20Manushta%20%5BInset-4%5D.jpg" width="300" alt="5. Inset (Part 4)" /><br><sub><b>5. Inset (Part 4)</b></sub> | <img src="Boka%20Manushta/Album%20Cover/Boka%20Manushta%20%5BBack%5D.jpg" width="300" alt="6. Back Cover" /><br><sub><b>6. Back Cover</b></sub> |
 
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** dBpoweramp AccurateRip Rig
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
+
 ---
 
 <a id="5-ekhon-ami-2007"></a>
@@ -233,6 +257,12 @@ Released in 2007 by G-Series, *Ekhon Ami* ("Now It Is Me") is one of the most ce
 | <img src="Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BLyrics%5D.jpg" width="300" alt="3. Booklet & Lyrics" /><br><sub><b>3. Booklet & Lyrics</b></sub> | <img src="Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BInlay-1%5D.jpg" width="300" alt="4. Inlay (Part 1)" /><br><sub><b>4. Inlay (Part 1)</b></sub> |
 | <img src="Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BInlay-2%5D.jpg" width="300" alt="5. Inlay (Part 2)" /><br><sub><b>5. Inlay (Part 2)</b></sub> | <img src="Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BCD%5D.jpg" width="300" alt="6. Compact Disc (CD)" /><br><sub><b>6. Compact Disc (CD)</b></sub> |
 
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** Manzur Fahim / I B
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
+
 ---
 
 <a id="6-soul-food-pt-1-2016"></a>
@@ -265,6 +295,12 @@ Released in October 2016 by Mushroom Entertainment, *Soul Food, Pt. 1* is Bassba
 | :---: | :---: |
 | <img src="Soul%20Food%2C%20Pt.%201%20%282016%29/Album%20Cover/Soul%20Food%2C%20Pt.%201%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** Muzahid Islam
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
+
 ---
 
 <a id="7-singles--standalone-releases"></a>
@@ -285,6 +321,12 @@ Released in October 2016 by Mushroom Entertainment, *Soul Food, Pt. 1* is Bassba
 | | |
 | :---: | :---: |
 | <img src="Singles/Album%20Cover/Bassbaba%20Sumon%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
+
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** @music_ripper_bot / Bangla Flac Community
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
 
 ---
 
