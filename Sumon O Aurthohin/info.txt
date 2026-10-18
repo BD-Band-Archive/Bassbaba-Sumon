@@ -1,0 +1,34 @@
+Album Name: Sumon O Aurthohin
+Album Type: Solo
+Release Year: 1997
+Genre: Rock
+Total Songs: 15
+Track List:
+01. Tomar Jonno Noy
+02. Mone Koro
+03. Kono Ek Nijhum Raate
+04. Shadhinota
+05. She
+06. Tarar Paane
+07. Ekti Nokhkhotrer Gaan
+08. Tahader Kotha '71
+09. Aurthohin
+10. Jokhon Charidikey
+11. Hyena'r Ottohashi
+12. Shopner Daar
+13. Mission Accomplished
+14. Majh Raate
+15. Kono Ek Nijhum Raate-2
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 889 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.4.3 (2023-06-23)

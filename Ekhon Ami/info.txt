@@ -1,0 +1,30 @@
+Album Name: Ekhon Ami
+Album Type: Solo
+Release Year: 2007
+Genre: Pop
+Total Songs: 11
+Track List:
+01. Gaibona
+02. Ekhon Ami
+03. Shopnogulo Tomar Moto
+04. Shobar Jonne Tumi
+05. Tirjok
+06. Tomar Jonno
+07. Ghum Parie Dio
+08. Jokhon Charidike
+09. Onneshon
+10. Noshto Neer
+11. Shobar Jonne Tumi (Fuad Mix)
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 910 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.3.0 (2013-05-26)

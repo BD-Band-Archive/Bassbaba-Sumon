@@ -1,0 +1,25 @@
+Album Name: Soul Food, Pt. 1
+Album Type: Solo
+Release Year: 2016
+Genre: Rock
+Total Songs: 6
+Track List:
+01. Cancer Casserole
+02. Chef Johns Ragadelic Baba Ghanoush
+03. Better Call Salt & The Walking Bread
+04. Tapping Tempura
+05. Licence to Ham Stew
+06. 1UP Adventures and Quest Promo
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 824 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : Lavf58.29.100
