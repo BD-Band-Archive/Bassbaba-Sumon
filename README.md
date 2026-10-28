@@ -306,6 +306,10 @@ Released in October 2016 by Mushroom Entertainment, *Soul Food, Pt. 1* is Bassba
 <a id="7-singles--standalone-releases"></a>
 ## 7. Singles & Standalone Releases
 
+<p align="center">
+  <img src="Singles/Album%20Cover/Bassbaba%20Sumon%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="Bassbaba Sumon Singles Cover" />
+</p>
+
 - **Artist:** Bassbaba Sumon
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
@@ -320,7 +324,8 @@ Released in October 2016 by Mushroom Entertainment, *Soul Food, Pt. 1* is Bassba
 
 | | |
 | :---: | :---: |
-| <img src="Singles/Album%20Cover/Bassbaba%20Sumon%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
+| <img src="Singles/Album%20Cover/Bassbaba%20Sumon%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Singles/Album%20Cover/Bassbaba%20Sumon%20-%20Boyosh%20Holo%20Amar.jpg" width="300" alt="2. Bassbaba Sumon - Boyosh Holo Amar" /><br><sub><b>2. Bassbaba Sumon - Boyosh Holo Amar</b></sub> |
+| <img src="Singles/Album%20Cover/Bassbaba%20Sumon%20-%20Oniyomer%20Golpo.jpg" width="300" alt="3. Bassbaba Sumon - Oniyomer Golpo" /><br><sub><b>3. Bassbaba Sumon - Oniyomer Golpo</b></sub> | <img src="Singles/Album%20Cover/Bassbaba%20Sumon%20-%20Purano%20Shei%20Diner%20Kotha.jpg" width="300" alt="4. Bassbaba Sumon - Purano Shei Diner Kotha" /><br><sub><b>4. Bassbaba Sumon - Purano Shei Diner Kotha</b></sub> |
 
 
 ### 💿 CD Ripper & Preservation Credit
